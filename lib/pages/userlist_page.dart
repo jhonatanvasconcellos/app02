@@ -1,7 +1,7 @@
-import 'package:app02/modules/add_user_page.dart';
-import 'package:app02/modules/edit_user_page.dart';
-import 'package:app02/modules/user.dart';
-import 'package:app02/modules/user_detail_page.dart';
+import 'package:app02/pages/add_user_page.dart';
+import 'package:app02/pages/edit_user_page.dart';
+import 'package:app02/pages/user.dart';
+import 'package:app02/pages/user_detail_page.dart';
 import 'package:flutter/material.dart';
 
 class UserListPage extends StatefulWidget {

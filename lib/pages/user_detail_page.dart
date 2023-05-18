@@ -1,4 +1,4 @@
-import 'package:app02/modules/user.dart';
+import 'package:app02/pages/user.dart';
 import 'package:flutter/material.dart';
 
 class UserDetailPage extends StatelessWidget {
